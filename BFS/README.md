@@ -10,9 +10,11 @@ What BFS does are:
 
 Illustration of levels in BFS 
 
+```
 Level 0: (0,0)
 Level 1: (0,1) ; (1,0)
 Level 2: (1,1) ; (0,2) ; (2,0)
 Level 3: (2,1) ; (1,2) ; (0,3) ; (3,0)
 ..
-Level n: (x,y) 
+Level n: (x,y)
+```
